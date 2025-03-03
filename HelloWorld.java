@@ -4,11 +4,11 @@ public class HelloWorld {
 		if (args.length > 0){
 			System.out.print("Hello");
 			for (String a : args) {
-				system.out.print(" " + a);
+				System.out.print(" " + a);
 			}
 			System.out.println("");
 		} else {
-			System.out.println("Hello World!);
+			System.out.println("Hello World!");
 		}
 	}
 }
